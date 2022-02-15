@@ -10,7 +10,7 @@ NFT 的一小步，Web3  的一大步。
 你的第一张 NFT（Your First NFT），致力为 Web3 新手提供第一张免费的 NFT，以此作为进入 Web3 新世界的门票。
 ​
 
-![Your First NFT-tuya-tuya.png]([https://s2.loli.net/2022/02/15/ODfyE3PHt4WQA7U.png)](https://s2.loli.net/2022/02/15/ODfyE3PHt4WQA7U.png))
+![Your First NFT-tuya-tuya.png](https://s2.loli.net/2022/02/15/ODfyE3PHt4WQA7U.png)
 [
 ](http://hardwaylab.mikecrm.com/LDY8lx4)
 
@@ -57,15 +57,13 @@ Your First NFT 适用所有尚未有加密钱包，尚未接收过空投的新�
 
 **3. 查看显示你获取的 NFT（免费查看）**
 ​
-
 > 查看教程：[https://github.com/cnfeat/YourFirstNFT/blob/main/OpenseaNFT.md](https://github.com/cnfeat/YourFirstNFT/blob/main/OpenseaNFT.md)
 
 ​
 
 
-4. 疑难解决
+**4. 疑难解决**
 
-​
 
 > 加入社区解决：[https://discord.gg/H5QtSfKu](https://discord.gg/H5QtSfKu)
 
@@ -85,9 +83,9 @@ Your First NFT 适用所有尚未有加密钱包，尚未接收过空投的新�
 ​
 
 
-- 1. 钱包没有钱，就没有风险；
-- 2. NFT 其实可以不用钱；
-- 3. Web3 看是真看不懂，需要去摸，进入 Web3 的成本为 0，为什么不呢？
+- 钱包没有钱，就没有风险；
+- NFT 其实可以不用钱；
+- Web3 看是真看不懂，需要去摸，进入 Web3 的成本为 0，为什么不呢？
 
 ​
 
@@ -98,9 +96,9 @@ Your First NFT 致力让所有新手顺利在 Web3 世界新手村满血生存�
 ​
 
 
-- 1. 注册的是空钱包，随便折腾，就像你在帮爸妈在微信支付绑定一张没有钱的银行卡；
-- 2. 登记就是白名单，不必肝，无需抢，更没有必要去各种创作表演；
-- 3. 空投免费，不必买，无需手续费
+- 注册的是空钱包，随便折腾，就像你在帮爸妈在微信支付绑定一张没有钱的银行卡；
+- 登记就是白名单，不必肝，无需抢，更没有必要去各种创作表演；
+- 空投免费，不必买，无需手续费
 
 ​
 
@@ -129,11 +127,11 @@ NFT 主图案为登上月球第二人奥尔德林的脚印，文字为 hello wor
 ​
 
 
-- 1. 空投 1 万张 NFT 给 Web3 新人
-- 3. 鼓励使用 [Mirror](https://mirror.xyz/) 发布文章，创建拥有自己版权的文章
-- 4. 鼓励进入 [RSS3](https://rss3.bio/)，创造属于自己的主页
-- 5. 鼓励自行 Web3 基本规则与运行原理。
-- 6. 还没想好，待增补
+- 空投 1 万张 NFT 给 Web3 新人
+- 鼓励使用 [Mirror](https://mirror.xyz/) 发布文章，创建拥有自己版权的文章
+- 鼓励进入 [RSS3](https://rss3.bio/)，创造属于自己的主页
+- 鼓励自行 Web3 基本规则与运行原理。
+- 还没想好，待增补
 
 ​
 
