@@ -7,7 +7,7 @@
 NFT 的一小步，Web3  的一大步。
 ​
 
-你的第一张 NFT（Your First NFT），致力为 Web3 新手提供第一张免费的 NFT，以此作为进入 Web3 新世界的门票。
+你的第一张 NFT（Your First NFT），致力为 Web3 新手空投第一张免费的 NFT，以此作为进入 Web3 新世界的门票。
 ​
 
 ![Your First NFT-tuya-tuya.png](https://s2.loli.net/2022/02/15/ODfyE3PHt4WQA7U.png)
