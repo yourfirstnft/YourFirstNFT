@@ -8,7 +8,11 @@
 
 ![幻灯片1.jpg](https://s2.loli.net/2022/02/15/2PIXUbwt6vN9OgJ.jpg)
 
-无法打开 chrome 商店，可在 [https://www.crx4chrome.com/crx/28869/](https://www.crx4chrome.com/crx/28869/) 下载离线安装。
+无法打开 chrome 商店，可在下载离线安装包，安装方法自行搜索
+
+
+
+> 下载地址：https://github.com/cnfeat/YourFirstNFT/blob/main/extension_10_9_2_0.zip
 
 
 

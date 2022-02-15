@@ -2,8 +2,6 @@
 
 
 
-
-
 1. 打开 https://opensea.io/login
 
 
@@ -11,7 +9,7 @@
 ![幻灯片13.png](https://s2.loli.net/2022/02/15/LjApYUMahiEcJ8G.png)
 
 
-注：若打不开，请使用科学上网
+> 注：若打不开，请使用科学上网
 
 2. 使用 MetaMask 钱包登录 https://opensea.io/account 
 
@@ -24,9 +22,6 @@
 4. 点击 Uhidden
 
 ![幻灯片15.png](https://s2.loli.net/2022/02/15/aFC9xSsk4UIWHpQ.png)
-
-
-
 
 
 

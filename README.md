@@ -1,4 +1,4 @@
-# YourFirstNFT
+# Your First NFT
 
 
 进入 Web3 第一步，从拥有第一张 NFT 开始。
@@ -10,35 +10,28 @@ NFT 的一小步，Web3  的一大步。
 你的第一张 NFT（Your First NFT），致力为 Web3 新手提供第一张免费的 NFT，以此作为进入 Web3 新世界的门票。
 ​
 
-项目地址：https://github.com/cnfeat/YourFirstNFT
+![Your First NFT-tuya-tuya.png]([https://s2.loli.net/2022/02/15/ODfyE3PHt4WQA7U.png)](https://s2.loli.net/2022/02/15/ODfyE3PHt4WQA7U.png))
+[
+](http://hardwaylab.mikecrm.com/LDY8lx4)
+
+- 项目地址：[https://github.com/cnfeat/YourFirstNFT](https://github.com/cnfeat/YourFirstNFT)
+- NFT 地址：[https://opensea.io/collection/yourfirstnft](https://opensea.io/collection/yourfirstnft)
+- 社区 Discord 地址：[https://discord.gg/H5QtSfKu](https://discord.gg/H5QtSfKu)
+
+
+
+## 获取方法一（已有钱包地址）
+
+
+**直接填写登记你的钱包地址（免费登记，地址不会泄露）**
 ​
 
-NFT 地址：[https://opensea.io/collection/yourfirstnft](https://opensea.io/collection/yourfirstnft)
-​
-
-## 解决问题
-​
-
-多数人风险厌恶之大，根本不会碰加密钱包。
-​
-
-多数人以为 NFT 要钱，根本不会看。
-​
-
-多数人看不懂 Web3 ，根本不会想进入。
-​
-
-但其实
-​
+> 登记地址：[http://hardwaylab.mikecrm.com/LDY8lx4](http://hardwaylab.mikecrm.com/LDY8lx4)
+> 登记后等待空投
 
 
-- 1. 钱包没有钱，就没有风险；
-- 2. NFT 其实可以不用钱；
-- 3. Web3 看是真看不懂，需要去摸，进入 Web3 的成本为 0，为什么不呢？
 
-​
-
-## 获取方法
+## 获取方法二（没有钱包地址）
 ​
 
 Your First NFT 适用所有尚未有加密钱包，尚未接收过空投的新手，致力成为你的第一张空投。
@@ -50,16 +43,14 @@ Your First NFT 适用所有尚未有加密钱包，尚未接收过空投的新�
 **1. 拥有一个 metamask 钱包地址（免费注册）**
 ​
 
-> 注册教程：
+> 注册教程：[https://github.com/cnfeat/YourFirstNFT/blob/main/MetaMask.md](https://github.com/cnfeat/YourFirstNFT/blob/main/MetaMask.md)
 
 ​
 
-**2. 登记你的钱包地址（免费注册，地址不会泄露）**
+**2. 登记你的钱包地址（免费登记，地址不会泄露）**
 ​
 
-> 登记地址：
-> ​
-
+> 登记地址：[http://hardwaylab.mikecrm.com/LDY8lx4](http://hardwaylab.mikecrm.com/LDY8lx4)
 > 登记后等待空投
 
 ​
@@ -67,10 +58,36 @@ Your First NFT 适用所有尚未有加密钱包，尚未接收过空投的新�
 **3. 查看显示你获取的 NFT（免费查看）**
 ​
 
-查看教程：
-​
+> 查看教程：[https://github.com/cnfeat/YourFirstNFT/blob/main/OpenseaNFT.md](https://github.com/cnfeat/YourFirstNFT/blob/main/OpenseaNFT.md)
 
 ​
+
+
+4. 疑难解决
+
+​
+
+> 加入社区解决：[https://discord.gg/H5QtSfKu](https://discord.gg/H5QtSfKu)
+
+​
+
+## 解决问题
+​
+
+
+- 多数人风险厌恶之大，根本不会碰加密钱包。
+- 多数人以为 NFT 要钱，根本不会看。
+- 多数人看不懂 Web3 ，根本不会想进入。
+
+​
+
+但其实
+​
+
+
+- 1. 钱包没有钱，就没有风险；
+- 2. NFT 其实可以不用钱；
+- 3. Web3 看是真看不懂，需要去摸，进入 Web3 的成本为 0，为什么不呢？
 
 ​
 
@@ -93,6 +110,9 @@ Your First NFT 致力让所有新手顺利在 Web3 世界新手村满血生存�
 本项目由于发起人能力有限，只能手动空投，速度可能比较慢，或后续学习智能合约推进，或期待高手协助。
 ​
 
+本项目仅负责空投。
+​
+
 ## NFT 相关说明
 ​
 
@@ -109,9 +129,11 @@ NFT 主图案为登上月球第二人奥尔德林的脚印，文字为 hello wor
 ​
 
 
-- 1. 帮助 1 万新人安全进入 Web3 新手村
-- 2. 帮助新人可以使用 Mirror 发布文章，创建拥有自己版权的文章，进入 RSS3，创造属于自己的主页，以此熟悉 Web3 基本规则与运行原理。
-- 3. 还没想好，待增补
+- 1. 空投 1 万张 NFT 给 Web3 新人
+- 3. 鼓励使用 [Mirror](https://mirror.xyz/) 发布文章，创建拥有自己版权的文章
+- 4. 鼓励进入 [RSS3](https://rss3.bio/)，创造属于自己的主页
+- 5. 鼓励自行 Web3 基本规则与运行原理。
+- 6. 还没想好，待增补
 
 ​
 
