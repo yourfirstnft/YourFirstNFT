@@ -29,6 +29,7 @@ NFT 的一小步，Web3  的一大步。
 > 登记地址：[http://hardwaylab.mikecrm.com/LDY8lx4](http://hardwaylab.mikecrm.com/LDY8lx4)
 > 
 > 登记后等待空投，该表单每人每天限填一次。
+> 空投进展将每天在即刻公布，公布地址：https://okjk.co/7IhCQM
 
 
 
@@ -43,6 +44,7 @@ Your First NFT 鼓励所有尚未有加密钱包，尚未接收过空投的新�
 **2. 登记你的钱包地址（免费登记，地址不会泄露）**
 > 登记地址：[http://hardwaylab.mikecrm.com/LDY8lx4](http://hardwaylab.mikecrm.com/LDY8lx4)
 > 登记后等待空投，该表单每人每天限填一次。
+> 空投进展将每天在即刻公布，公布地址：https://okjk.co/7IhCQM
 
 **3. 查看你获取的 NFT（免费查看）**
 > 查看教程：[https://github.com/cnfeat/YourFirstNFT/blob/main/OpenseaNFT.md](https://github.com/cnfeat/YourFirstNFT/blob/main/OpenseaNFT.md)
