@@ -34,86 +34,53 @@ NFT 的一小步，Web3  的一大步。
 ## 获取方法二（没有钱包地址）
 ​
 
-Your First NFT 适用所有尚未有加密钱包，尚未接收过空投的新手，致力成为你的第一张空投。
+Your First NFT 鼓励所有尚未有加密钱包，尚未接收过空投的新手开始以下操作，顺利接收你的第一张空投。
 ​
-
-你需要这样做
-​
-
 **1. 拥有一个 metamask 钱包地址（免费注册）**
-​
-
 > 注册教程：[https://github.com/cnfeat/YourFirstNFT/blob/main/MetaMask.md](https://github.com/cnfeat/YourFirstNFT/blob/main/MetaMask.md)
 
-​
-
 **2. 登记你的钱包地址（免费登记，地址不会泄露）**
-​
-
 > 登记地址：[http://hardwaylab.mikecrm.com/LDY8lx4](http://hardwaylab.mikecrm.com/LDY8lx4)
 > 登记后等待空投
 
-​
-
 **3. 查看显示你获取的 NFT（免费查看）**
-​
 > 查看教程：[https://github.com/cnfeat/YourFirstNFT/blob/main/OpenseaNFT.md](https://github.com/cnfeat/YourFirstNFT/blob/main/OpenseaNFT.md)
 
-​
-
-
 **4. 疑难解决**
-
-
 > 加入社区解决：[https://discord.gg/H5QtSfKu](https://discord.gg/H5QtSfKu)
 
 ​
 
 ## 解决问题
 ​
-
-
 - 多数人风险厌恶之大，根本不会碰加密钱包。
 - 多数人以为 NFT 要钱，根本不会看。
 - 多数人看不懂 Web3 ，根本不会想进入。
 
-​
-
 但其实
-​
-
 
 - 钱包没有钱，就没有风险；
 - NFT 其实可以不用钱；
 - Web3 看是真看不懂，需要去摸，进入 Web3 的成本为 0，为什么不呢？
 
-​
-
 ## 项目优点
 ​
-
 Your First NFT 致力让所有新手顺利在 Web3 世界新手村满血生存。
 ​
-
-
 - 注册的是空钱包，随便折腾，就像你在帮爸妈在微信支付绑定一张没有钱的银行卡；
 - 登记就是白名单，不必肝，无需抢，更没有必要去各种创作表演；
 - 空投免费，不必买，无需手续费
 
-​
 
 ## 项目缺点
 ​
-
 本项目由于发起人能力有限，只能手动空投，速度可能比较慢，或后续学习智能合约推进，或期待高手协助。
 ​
-
 本项目仅负责空投。
 ​
 
 ## NFT 相关说明
 ​
-
 - NFT 标价 0.0007，价值大约 2 美元，满足 opensea 的最低上架标准，满足基本售卖交易功能
 ​- 建议不要购买或售卖此 NFT，避免造成不必要的误解
 ​- NFT 主图案为登上月球第二人奥尔德林的脚印，文字为 hello world（你好，世界），为多数编程教程指引新手打印出第一句话
@@ -121,15 +88,11 @@ Your First NFT 致力让所有新手顺利在 Web3 世界新手村满血生存�
 
 ## 路线图 Roadmap 
 ​
-
-
 - 空投 1 万张 NFT 给 Web3 新人
 - 鼓励使用 [Mirror](https://mirror.xyz/) 发布文章，创建拥有自己版权的文章
 - 鼓励进入 [RSS3](https://rss3.bio/)，创造属于自己的主页
 - 鼓励自学摸索 Web3 基本规则与运行原理。
 - 还没想好，待增补
-
-​
 
 ## 最后
 ​
