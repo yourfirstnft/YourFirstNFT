@@ -27,6 +27,7 @@ NFT 的一小步，Web3  的一大步。
 ​
 
 > 登记地址：[http://hardwaylab.mikecrm.com/LDY8lx4](http://hardwaylab.mikecrm.com/LDY8lx4)
+> 
 > 登记后等待空投
 
 
