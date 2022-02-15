@@ -44,7 +44,7 @@ Your First NFT 鼓励所有尚未有加密钱包，尚未接收过空投的新�
 > 登记地址：[http://hardwaylab.mikecrm.com/LDY8lx4](http://hardwaylab.mikecrm.com/LDY8lx4)
 > 登记后等待空投
 
-**3. 查看显示你获取的 NFT（免费查看）**
+**3. 查看你获取的 NFT（免费查看）**
 > 查看教程：[https://github.com/cnfeat/YourFirstNFT/blob/main/OpenseaNFT.md](https://github.com/cnfeat/YourFirstNFT/blob/main/OpenseaNFT.md)
 
 **4. 疑难解决**
