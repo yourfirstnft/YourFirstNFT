@@ -33,9 +33,9 @@ NFT 的一小步，Web3  的一大步。
 
 ## 获取方法二（没有钱包地址）
 ​
-
 Your First NFT 鼓励所有尚未有加密钱包，尚未接收过空投的新手开始以下操作，顺利接收你的第一张空投。
 ​
+
 **1. 拥有一个 metamask 钱包地址（免费注册）**
 > 注册教程：[https://github.com/cnfeat/YourFirstNFT/blob/main/MetaMask.md](https://github.com/cnfeat/YourFirstNFT/blob/main/MetaMask.md)
 
