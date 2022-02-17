@@ -10,13 +10,13 @@ NFT 的一小步，Web3  的一大步。
 你的第一张 NFT（Your First NFT），致力为 Web3 新手空投第一张免费的 NFT，以此作为进入 Web3 新世界的门票。
 ​
 
-![Your First NFT-tuya-tuya.png](https://s2.loli.net/2022/02/15/ODfyE3PHt4WQA7U.png)
-[
-](http://hardwaylab.mikecrm.com/LDY8lx4)
-
 - 项目地址：[https://github.com/cnfeat/YourFirstNFT](https://github.com/cnfeat/YourFirstNFT)
 - NFT 地址：[https://opensea.io/collection/yourfirstnft](https://opensea.io/collection/yourfirstnft)
 - 社区 Discord 地址：[https://discord.gg/H5QtSfKu](https://discord.gg/H5QtSfKu)
+
+![Your First NFT-tuya-tuya.png](https://s2.loli.net/2022/02/15/ODfyE3PHt4WQA7U.png)
+[
+](http://hardwaylab.mikecrm.com/LDY8lx4)
 
 
 
@@ -28,36 +28,36 @@ NFT 的一小步，Web3  的一大步。
 
 > 登记地址：[http://hardwaylab.mikecrm.com/LDY8lx4](http://hardwaylab.mikecrm.com/LDY8lx4)
 > 
-> 登记后等待空投，该表单每人每天限填一次。登记表单偶尔显示「访问资源紧张」，请刷新或换个时间再填。
+> 登记后等待空投，该表单每人限填一次。登记表单偶尔显示「访问资源紧张」，请刷新或换个时间再填。
 > 
 > 空投进展将每天在即刻公布，公布地址：https://okjk.co/7IhCQM
 
 
 
 ## 获取方法二（没有钱包地址）
+
 ​
 Your First NFT 鼓励所有尚未有加密钱包，尚未接收过空投的新手开始以下操作，顺利接收你的第一张空投。
-​
+
 
 **1. 拥有一个 metamask 钱包地址（免费注册）**
 > 注册教程：[https://github.com/cnfeat/YourFirstNFT/blob/main/MetaMask.md](https://github.com/cnfeat/YourFirstNFT/blob/main/MetaMask.md)
 
-**2. 登记你的钱包地址（免费登记，地址不会泄露）**
-> 登记地址：[http://hardwaylab.mikecrm.com/LDY8lx4](http://hardwaylab.mikecrm.com/LDY8lx4)
-> 
-> 登记后等待空投，该表单每人每天限填一次。登记表单偶尔显示「访问资源紧张」，请刷新或换个时间再填。
-> 
-> 空投进展将每天在即刻公布，公布地址：https://okjk.co/7IhCQM
+**2. 登记你的钱包地址（步骤如方法一）**
 
-**3. 查看你获取的 NFT（免费查看）**
-> 查看教程：[https://github.com/cnfeat/YourFirstNFT/blob/main/OpenseaNFT.md](https://github.com/cnfeat/YourFirstNFT/blob/main/OpenseaNFT.md)
-
-**4. 疑难解决**
-> 加入社区解决：[https://discord.gg/H5QtSfKu](https://discord.gg/H5QtSfKu)
 
 ​
 
-## 解决问题
+## 查看 NFT（免费查看）
+
+查看教程：[https://github.com/cnfeat/YourFirstNFT/blob/main/OpenseaNFT.md](https://github.com/cnfeat/YourFirstNFT/blob/main/OpenseaNFT.md)
+
+
+疑难解决，加入社区解决：[https://discord.gg/H5QtSfKu](https://discord.gg/H5QtSfKu)
+
+​
+
+## 本项目试图解决以下问题
 ​
 - 多数人厌恶风险，不敢碰加密钱包
 - 市场多数 NFT 要钱，有钱包也不想买，只想拿一个玩玩看
