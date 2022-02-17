@@ -46,7 +46,7 @@ Your First NFT 鼓励所有尚未有加密钱包，尚未接收过空投的新�
 **1. 拥有一个 metamask 钱包地址（免费注册）**
 > 注册教程：[https://github.com/cnfeat/YourFirstNFT/blob/main/MetaMask.md](https://github.com/cnfeat/YourFirstNFT/blob/main/MetaMask.md)
 
-**2. 登记你的钱包地址（步骤如方法一）**
+**2. 登记你的钱包地址（见方法一）**
 
 
 ​
