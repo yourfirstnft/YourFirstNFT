@@ -31,6 +31,7 @@ NFT 的一小步，Web3  的一大步。
 
 > 登记地址：[http://hardwaylab.mikecrm.com/LDY8lx4](http://hardwaylab.mikecrm.com/LDY8lx4)
 > 
+> 2022-02-22 日起 opensea 对 Polygon 的 transfer 功能进行调整，空投出现问题，不得不中断，正在等待解决。
 > 登记后等待空投，该表单每人限填一次。登记表单偶尔显示「访问资源紧张」，请刷新或换个时间再填。
 > 
 > 空投进展将每天在即刻公布，公布地址：https://okjk.co/7IhCQM
