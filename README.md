@@ -7,7 +7,7 @@
 NFT 的一小步，Web3  的一大步。
 ​
 
-你的第一张 NFT（Your First NFT），致力为 Web3 新手空投第一张免费的 NFT，以此作为进入 Web3 新世界的门票。
+Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 NFT 空投，以此作为进入 Web3 新世界的门票。
 ​
 
 - 项目地址：[https://github.com/cnfeat/YourFirstNFT](https://github.com/cnfeat/YourFirstNFT)
@@ -31,10 +31,7 @@ NFT 的一小步，Web3  的一大步。
 
 > 登记地址：[http://hardwaylab.mikecrm.com/LDY8lx4](http://hardwaylab.mikecrm.com/LDY8lx4)
 > 
-> 2022-02-22 日起 opensea 对 Polygon 的 transfer 功能进行调整，空投出现问题，不得不中断，正在等待解决。
-> 登记后等待空投，该表单每人限填一次。登记表单偶尔显示「访问资源紧张」，请刷新或换个时间再填。
-> 
-> 空投进展将每天在即刻公布，公布地址：https://okjk.co/7IhCQM
+> 空投进展将定期在即刻公布，公布地址：https://okjk.co/7IhCQM
 
 
 
