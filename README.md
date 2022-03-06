@@ -10,7 +10,7 @@ NFT 的一小步，Web3  的一大步。
 Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 NFT 空投，以此作为进入 Web3 新世界的门票。
 ​
 
-- 项目地址：[https://github.com/cnfeat/YourFirstNFT](https://github.com/cnfeat/YourFirstNFT)
+- 项目地址：[https://github.com/yourfirstnft/YourFirstNFT](https://github.com/yourfirstnft/YourFirstNFT)
 - NFT 地址：[https://opensea.io/collection/yourfirstnft](https://opensea.io/collection/yourfirstnft)
 - 社区 Discord 地址：[https://discord.gg/H5QtSfKu](https://discord.gg/H5QtSfKu)
 
