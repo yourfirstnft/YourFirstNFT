@@ -12,7 +12,7 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 
 - 项目地址：[https://github.com/yourfirstnft/YourFirstNFT](https://github.com/yourfirstnft/YourFirstNFT)
 - NFT 地址：[https://opensea.io/collection/yourfirstnft](https://opensea.io/collection/yourfirstnft)
-- 社区 Discord 地址：[https://discord.gg/H5QtSfKu](https://discord.gg/H5QtSfKu)
+- 社区 Discord 地址：[https://discord.gg/b7KRccfYN3](https://discord.gg/b7KRccfYN3)
 
 
 > **如果此项目对你有用，麻烦点个星星，谢谢。**
