@@ -1,4 +1,4 @@
-# Your First NFT
+# Your First NFT 献给 Web3 新手的第一个 NFT
 
 
 进入 Web3 第一步，从拥有第一张 NFT 开始。
@@ -9,7 +9,7 @@ NFT 的一小步，Web3  的一大步。
 ## 介绍
 ​
 
-Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 NFT 空投，以此作为进入 Web3 新世界的门票。
+Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 NFT，以此作为进入 Web3 新世界的门票。
 
 
 新人理解 Web3 的第一须知： Web3 的概念并没有那么重要， 因为概念是定义出来的，你可以通过使用它，来理解它，从而定义它（use it，know it，define it）。
@@ -281,6 +281,7 @@ Your First NFT 致力让所有新手顺利在 Web3 世界新手村满血生存�
 
 ## Changelog
 
+- 2022-03-14 增补介绍
 - 2022-02-17 增补源起
 - 2022-02-16 增补路线描述
 
