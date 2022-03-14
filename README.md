@@ -5,6 +5,8 @@
 ​
 
 NFT 的一小步，Web3  的一大步。
+
+## 介绍
 ​
 
 Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 NFT 空投，以此作为进入 Web3 新世界的门票。
