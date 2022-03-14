@@ -8,6 +8,16 @@ NFT 的一小步，Web3  的一大步。
 ​
 
 Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 NFT 空投，以此作为进入 Web3 新世界的门票。
+
+
+新人理解 Web3 的第一须知： Web3 的概念并没有那么重要， 因为概念是定义出来的，你可以通过使用它，来理解它，从而定义它（use it，know it，define it）。
+
+一千人有一千个哈姆雷特，你可以通过局部理解，通过感性认知，通过具体操作，来形成自己对 Web3 的理解。
+
+你一开始不必掌握 Web3 的宏大图景，就像你父母不需要知道 Web 2.0，才能使用微信红包，就像你父母不需要知道什么是社交网络，也可以使用微信朋友圈。
+
+你可以先创建一个钱包来先进入 Web3 ，可以先拥有第一张 NFT 来先使用 Web3，可以先通过 Mint 第一张 NFT 来理解 Web3 。 
+
 ​
 
 - 项目地址：[https://github.com/yourfirstnft/YourFirstNFT](https://github.com/yourfirstnft/YourFirstNFT)
