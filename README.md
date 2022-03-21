@@ -32,12 +32,14 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 - 多数项目 NFT 要钱，眼花缭乱
 > 恭喜你，本项目 NFT Mint 费用为 0
 
+
+
 ​
 - Your First NFT 官网：[https://yourfirstnft.xyz/](https://yourfirstnft.xyz/)
 - Github 项目地址：[https://github.com/yourfirstnft/YourFirstNFT](https://github.com/yourfirstnft/YourFirstNFT)
 - Opensea 地址：[https://opensea.io/collection/yourfirstnft-v3](https://opensea.io/collection/yourfirstnft-v3)
 - Discord 社区地址：[https://discord.gg/b7KRccfYN3](https://discord.gg/b7KRccfYN3)
-- 项目
+
 
 > **如果此项目对你有用，麻烦点个星星，谢谢。**
 
@@ -50,12 +52,16 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 
 本项目铸造费用为 0 。
 
-本项目努力将交易手续费降到最低，目前使用代币 Polygon Matic 铸造，手续费至少需要 0.005 个 Matic（人民币约 0.05 元），
+本项目努力将交易手续费降到最低，目前使用代币 Polygon Matic 铸造，手续费至少需要 0.005 个 Matic（人民币约 0.05 元）。
 
 该手续费并非本项目收取。
 
+注意：本项目仅供 Web3 新手学习使用，它基本不值钱，因为它是无限量供应的，学习意义大于金钱意义。
+
 ​
 ## 免费 Mint 步骤
+
+以下步骤操作完成后，你会了解 Web3 的基础知识：数字钱包、虚拟货币、交易市场、数字资产等。
 
 - **1. 拥有一个 metamask 钱包**
 > 免费注册教程：[https://github.com/cnfeat/YourFirstNFT/blob/main/MetaMask.md](https://github.com/cnfeat/YourFirstNFT/blob/main/MetaMask.md)
@@ -73,12 +79,21 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 说明：
 
 - 疑难解决，加入社区解决：[https://discord.gg/H5QtSfKu](https://discord.gg/H5QtSfKu)
-- 如果你在步骤2存在问题，可以直接填写[表单登记地址](http://hardwaylab.mikecrm.com/LDY8lx4)，我们人工空投给你，[NFT 查看教程](https://github.com/yourfirstnft/YourFirstNFT/blob/main/OpenseaNFT.md)
+- 如果你在「步骤 2」存在问题，可以直接填写[表单登记地址](http://hardwaylab.mikecrm.com/LDY8lx4)，我们人工空投给你，[NFT 查看教程](https://github.com/yourfirstnft/YourFirstNFT/blob/main/OpenseaNFT.md)
 
 ​
 ## 项目愿景
 
 成为 Web3 更健康更长久的项目。
+
+本项目鼓励你成为 Web3  早起参与者和建造者，鼓励你去做那些 Web3 中更健康更长久的事情。
+
+以下是我们认为 Web3 中更健康更长久的事情。 
+
+- 鼓励你使用 [Mirror](https://mirror.xyz/) 创建你的第一篇 Web3 文章，发表你的 Web3 见解与实践 
+- 鼓励你使用 [RSS3](https://rss3.bio/)，创造你的 Web3 主页，发布你的 Web3 作品
+- 鼓励你加入 [NextDAO](https://mirror.xyz/nextdao.eth/dLGSM1BmvOh84OxGVljJ_lsdM804q5pFRdaYTlKqO9Q)，理解什么是去中心化，发挥你的技能和优势加入对应的工作组
+- 鼓励你自学摸索 Web3 基本规则与运行原理，积累经验和知识，成为可能自我，为未来职业转型做好准备
 
 **本项目优点**
 - 没有白名单，不必肝，无需抢，不用创作不用表演
@@ -100,17 +115,11 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 **2022 Q3** 让本项目更健康更长久
 **2022 Q4** 本项目永不跑路
 
-- 本项目鼓励你成为 Web3  早起参与者和建造者
-- 鼓励你使用 [Mirror](https://mirror.xyz/) 创建你的第一篇 Web3 文章，发表你的 Web3 见解与实践 
-- 鼓励你使用 [RSS3](https://rss3.bio/)创造你的 Web3 主页，发布你的 Web3 作品
-- 鼓励你加入一个或多个DAO，理解什么是去中心化，发挥你的技能和优势加入对应的工作组
-- 鼓励你自学摸索 Web3 基本规则与运行原理，积累经验和知识，成为可能自我，为未来职业转型做好准备
-
 ​
 ## 项目成员
 ​
-- [cnfeat.eth](https://okjk.co/rsbOXi)，[RSS3主页](https://cnfeat.eth.cheers.bio/ ) 微信：hardwaylab
-- 
+- [cnfeat.eth](https://okjk.co/rsbOXi)，[RSS3主页](https://cnfeat.eth.cheers.bio/ )，微信：hardwaylab
+- [nick](https://www.devzhangh.com/)
 ​
 
 ## NFT 说明
@@ -127,6 +136,8 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 
 
 ## 源起
+
+更新：[写在人工空投 800 张免费 NFT 之后 — 笨方法实验室](https://mirror.xyz/cnfeat.eth/df1gyICFbmafbvaaGntjMLsnRYkN2F-mUtrLYC16B7Y)
 
 
 我进入 Web3，纯粹是年度关键词[「好奇」](http://newsletter.hardwaylab.com/issues/2022-973735)的驱动。
@@ -286,7 +297,7 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 
 ## Changelog
 
-- 2022-03-21 新增 Mint 官网
+- 2022-03-21 新增官网，可免费 Mint 
 - 2022-03-14 增补介绍
 - 2022-02-17 增补源起
 - 2022-02-16 增补路线描述
