@@ -47,6 +47,7 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 [
 ](https://yourfirstnft.xyz/)
 
+​
 ## 说明
 
 本项目铸造费用为 0 。
@@ -55,7 +56,7 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 
 该手续费并非本项目收取。
 
-
+​
 ## 免费 Mint 步骤
 
 - **1. 拥有一个 metamask 钱包**
@@ -70,6 +71,7 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 
 疑难解决，加入社区解决：[https://discord.gg/H5QtSfKu](https://discord.gg/H5QtSfKu)
 
+​
 ## 项目愿景
 
 成为 Web3 更健康更长久的项目。
@@ -78,7 +80,7 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 - 没有白名单，不必肝，无需抢，不用创作不用表演
 - 铸造免费，手续费几乎市场最低
 
-
+​
 ## Web3 入门必读
 
 - [Messari年度报告](https://w3hitchhiker.mirror.xyz/znaPSL__AdRETrJoWmr-uxSkNeWJ3HQAkCJrfxmzfnA)
@@ -87,7 +89,7 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 
 > 让你对 Web3 产生好奇的文章是哪篇，欢迎推荐。
 
-
+​
 ## 路线图 Roadmap 
 
 **2022 Q2** 完成合约发布，项目网站上线
@@ -100,7 +102,7 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 - 鼓励你加入一个或多个DAO，理解什么是去中心化，发挥你的技能和优势加入对应的工作组
 - 鼓励你自学摸索 Web3 基本规则与运行原理，积累经验和知识，成为可能自我，为未来职业转型做好准备
 
-
+​
 ## 项目成员
 ​
 - [cnfeat.eth](https://okjk.co/rsbOXi)，[RSS3主页](https://cnfeat.eth.cheers.bio/ )
@@ -119,7 +121,7 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 愿你的 Web3 道路漫长惊奇，充满冒险。
 愿你的 Web3 精神生生不息，繁荣昌盛。
 
-
+​
 ## 源起
 
 
