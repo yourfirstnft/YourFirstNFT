@@ -65,6 +65,7 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 > 代币购买教程（待上线）
 -  3.使用  metamask 钱包，切换至 Polygon 网络，登录官网铸造
 > 官网：https://yourfirstnft.xyz/
+> 
 > 铸造教程（待上线）
 -  4.查看 NFT
 > 登录你的 Opensea 账户查看：[https://opensea.io/account](https://opensea.io/account)
