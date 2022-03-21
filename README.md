@@ -21,8 +21,6 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 - 你可以先拥有第一张 NFT 来先使用 Web3
 - 你可以先通过 Mint 第一张 NFT 来理解 Web3
 
-​
-
 **本项目试图解决问题**
 
 - 多数人认为 Web3 就是炒币追小图片搞钱
@@ -70,7 +68,11 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 -  4.查看 NFT
 > 登录你的 Opensea 账户查看：[https://opensea.io/account](https://opensea.io/account)
 
-疑难解决，加入社区解决：[https://discord.gg/H5QtSfKu](https://discord.gg/H5QtSfKu)
+
+说明：
+
+- 疑难解决，加入社区解决：[https://discord.gg/H5QtSfKu](https://discord.gg/H5QtSfKu)
+- 如果你在步骤2存在问题，可以直接填写[表单登记地址](http://hardwaylab.mikecrm.com/LDY8lx4)，我们人工空投给你，[NFT 查看教程](https://github.com/yourfirstnft/YourFirstNFT/blob/main/OpenseaNFT.md)
 
 ​
 ## 项目愿景
@@ -93,11 +95,9 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 ​
 ## 路线图 Roadmap 
 
-- **2022 Q2** 完成合约发布，项目网站上线
-- **2022 Q3** 让本项目更健康更长久
-- **2022 Q4** 本项目永不跑路
-
-**你的路线图**
+**2022 Q2** 完成合约发布，项目网站上线
+**2022 Q3** 让本项目更健康更长久
+**2022 Q4** 本项目永不跑路
 
 - 本项目鼓励你成为 Web3  早起参与者和建造者
 - 鼓励你使用 [Mirror](https://mirror.xyz/) 创建你的第一篇 Web3 文章，发表你的 Web3 见解与实践 
@@ -108,7 +108,7 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 ​
 ## 项目成员
 ​
-- [cnfeat.eth](https://okjk.co/rsbOXi)，[RSS3主页](https://cnfeat.eth.cheers.bio/ )
+- [cnfeat.eth](https://okjk.co/rsbOXi)，[RSS3主页](https://cnfeat.eth.cheers.bio/ ) 微信：hardwaylab
 - 
 ​
 
@@ -124,7 +124,7 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 愿你的 Web3 道路漫长惊奇，充满冒险。
 愿你的 Web3 精神生生不息，繁荣昌盛。
 
-​
+
 ## 源起
 
 
