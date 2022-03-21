@@ -37,7 +37,7 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 - Github 项目地址：[https://github.com/yourfirstnft/YourFirstNFT](https://github.com/yourfirstnft/YourFirstNFT)
 - Opensea 地址：[https://opensea.io/collection/yourfirstnft-v3](https://opensea.io/collection/yourfirstnft-v3)
 - Discord 社区地址：[https://discord.gg/b7KRccfYN3](https://discord.gg/b7KRccfYN3)
-
+- 项目
 
 > **如果此项目对你有用，麻烦点个星星，谢谢。**
 
@@ -67,7 +67,8 @@ Your First NFT（你的第一张 NFT）， 让 Web3 新手获得第一张免费 
 > 铸造教程（待上线）
 -  4.查看 NFT
 > 登录你的 Opensea 账户查看：[https://opensea.io/account](https://opensea.io/account)
-
+> 
+> 铸造完成估计等 5 分钟才能查看，实际以 Opensea 的 Polygon 传输网速为准 
 
 说明：
 
